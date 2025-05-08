@@ -55,7 +55,7 @@ gestor.agregarCredencial(credencial);
 ---
 ## 📊 Diagrama de Clases (UML)
 
-
+![Image](https://github.com/user-attachments/assets/163cf37f-3926-4012-8444-a9b840e021b1)
 ---
 
 ## 📸 Captura del sistema funcionando
