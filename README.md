@@ -41,7 +41,7 @@ nueva.setRut("12.345.678-9");
 ```
 
 ---
-###🔒 Patrón Singleton – Aplicación
+### 🔒 Patrón Singleton – Aplicación
 
 - `GestorCredenciales` implementa el patrón Singleton:
   - Contiene una instancia privada y una lista de credenciales.
