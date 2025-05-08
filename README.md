@@ -59,5 +59,7 @@ gestor.agregarCredencial(credencial);
 ---
 
 ## 📸 Captura del sistema funcionando
-fun1
+![Image](https://github.com/user-attachments/assets/40c5b4a8-8e22-4d33-a2dc-d98a2bbfaf06)
+![Image](https://github.com/user-attachments/assets/6497486a-3562-4481-a869-db802d2def40)
+![Image](https://github.com/user-attachments/assets/130ef0c6-a907-465d-a04e-2829bbca34c3)
 
