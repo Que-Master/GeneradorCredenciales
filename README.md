@@ -38,6 +38,7 @@ Credencial nueva = plantilla.clone();
 nueva.setNombre("Ana Gómez");
 nueva.setCargo("Diseñadora");
 nueva.setRut("12.345.678-9");
+```
 
 ---
 ###🔒 Patrón Singleton – Aplicación
@@ -49,6 +50,7 @@ nueva.setRut("12.345.678-9");
 ```java
 GestorCredenciales gestor = GestorCredenciales.getInstancia();
 gestor.agregarCredencial(credencial);
+```
 
 ---
 ## 📊 Diagrama de Clases (UML)
